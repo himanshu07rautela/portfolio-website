@@ -211,7 +211,7 @@ const projects = [
   {
     name: "Badminton Tutorials",
     description:
-      "Crafted an online badminton skill enhancement platform, integrating instructional guides and exercises. Hosted on Github ",
+      "Crafted an online badminton skill enhancement platform, integrating instructional guides and exercises.",
     tags: [
       {
         name: "HTML",
@@ -253,7 +253,7 @@ const projects = [
   {
     name: "Payment App Prototype",
     description:
-      " Developed a payment app prototype with user authentication via JWT tokens. Utilized MongoDB for data storage and management, with Tailwind CSS for styling and responsive design",
+      " Developed a payment app prototype with user authentication via JWT tokens. Utilized MongoDB for data storage and management, with Tailwind CSS for styling.",
     tags: [
       {
         name: " React JS(tailwind)",
