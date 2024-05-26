@@ -253,7 +253,7 @@ const projects = [
   {
     name: "Payment App Prototype",
     description:
-      " Developed a payment app prototype with user authentication via JWT tokens. Utilized MongoDB for data storage and management, with Tailwind CSS for styling and responsive design and React Js for frontend.",
+      " Developed a payment app prototype with user authentication via JWT tokens. Utilized MongoDB for data storage and management, with Tailwind CSS for styling and responsive design",
     tags: [
       {
         name: " React JS(tailwind)",
