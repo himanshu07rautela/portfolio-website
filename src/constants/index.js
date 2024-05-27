@@ -141,7 +141,7 @@ const experiences = [
   },
   {
     title: "Web dev Lead",
-    company_name: "FIC IIT kota",
+    company_name: "FIC IIIT kota",
     icon: fic,
     iconBg: "#E6DEDD",
     date: "Dec 2022 - Present",
